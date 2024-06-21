@@ -30,3 +30,4 @@ int main(){
     isc.triangle();
     return 0;
 }
+

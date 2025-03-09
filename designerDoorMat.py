@@ -1,7 +1,7 @@
 N, M = map(int, input().split())
 
 # Print the top half of the mat
-for i in range(1, N, 2):
+for i in range(1, N, 2): 
     print((i * ".|.").center(M, "-"))
 
 # Print the middle row
